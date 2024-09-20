@@ -1,0 +1,1 @@
+To make airkiller work put the threads to 10000 
